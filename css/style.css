@@ -1,0 +1,52 @@
+.container{
+  width: 100%;
+}
+
+.nav-link{
+color: white;
+
+}
+
+.nav-link:hover{
+  background-color:pink;
+  border-radius: 13px;
+  color: black;
+}
+
+.top{
+  color: grey;
+  font-size: 20px;
+  font-style: italic;
+  float: right;
+  margin-right: 20px;
+
+}
+
+.top:hover{
+color:pink;
+}
+.btn{
+
+margin-top: 7px;
+
+  width: 120px;
+}
+
+li{
+  padding: 0px 15px;
+}
+a{
+  font-size: 20px;
+}
+
+.heading{
+
+  font-size: 30px;
+  color: #007bff;
+}
+
+
+.card-title{
+  color: white;
+  margin-top: 345px;
+}
